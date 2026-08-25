@@ -1,0 +1,7 @@
+test_family,method,significant_results
+CPA t-tests,Uncorrected,2
+CPA t-tests,Bonferroni,0
+CPA t-tests,FDR (BH),0
+Conversion Fisher tests,Uncorrected,36
+Conversion Fisher tests,Bonferroni,32
+Conversion Fisher tests,FDR (BH),36

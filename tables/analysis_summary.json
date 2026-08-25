@@ -1,0 +1,164 @@
+{
+  "rows": 5500,
+  "channels": 10,
+  "primary_metric": "cpa",
+  "total_comparisons": 90,
+  "expected_false_positives_at_0_05": 4.5,
+  "cpa_uncorrected_significant": 2,
+  "cpa_bonferroni_significant": 0,
+  "cpa_fdr_significant": 0,
+  "fisher_uncorrected_significant": 36,
+  "fisher_bonferroni_significant": 32,
+  "fisher_fdr_significant": 36,
+  "budget_total": 500000,
+  "best_aggregate_cpa_channel": "Email Marketing",
+  "best_aggregate_roas_channel": "Snapchat Ads",
+  "best_aggregate_conversion_channel": "Google Search Ads",
+  "fdr_cpa_pairs": [],
+  "fdr_conversion_pairs": [
+    {
+      "group_a": "Affiliate Marketing",
+      "group_b": "Email Marketing"
+    },
+    {
+      "group_a": "Affiliate Marketing",
+      "group_b": "Facebook Ads"
+    },
+    {
+      "group_a": "Affiliate Marketing",
+      "group_b": "Google Search Ads"
+    },
+    {
+      "group_a": "Affiliate Marketing",
+      "group_b": "Influencer Marketing"
+    },
+    {
+      "group_a": "Affiliate Marketing",
+      "group_b": "LinkedIn Ads"
+    },
+    {
+      "group_a": "Affiliate Marketing",
+      "group_b": "Snapchat Ads"
+    },
+    {
+      "group_a": "Affiliate Marketing",
+      "group_b": "Twitter Ads"
+    },
+    {
+      "group_a": "Affiliate Marketing",
+      "group_b": "YouTube Ads"
+    },
+    {
+      "group_a": "Email Marketing",
+      "group_b": "Facebook Ads"
+    },
+    {
+      "group_a": "Email Marketing",
+      "group_b": "Google Search Ads"
+    },
+    {
+      "group_a": "Email Marketing",
+      "group_b": "Influencer Marketing"
+    },
+    {
+      "group_a": "Email Marketing",
+      "group_b": "Instagram Ads"
+    },
+    {
+      "group_a": "Email Marketing",
+      "group_b": "LinkedIn Ads"
+    },
+    {
+      "group_a": "Email Marketing",
+      "group_b": "Snapchat Ads"
+    },
+    {
+      "group_a": "Email Marketing",
+      "group_b": "Twitter Ads"
+    },
+    {
+      "group_a": "Email Marketing",
+      "group_b": "YouTube Ads"
+    },
+    {
+      "group_a": "Facebook Ads",
+      "group_b": "Google Search Ads"
+    },
+    {
+      "group_a": "Facebook Ads",
+      "group_b": "Influencer Marketing"
+    },
+    {
+      "group_a": "Facebook Ads",
+      "group_b": "Instagram Ads"
+    },
+    {
+      "group_a": "Facebook Ads",
+      "group_b": "LinkedIn Ads"
+    },
+    {
+      "group_a": "Facebook Ads",
+      "group_b": "Snapchat Ads"
+    },
+    {
+      "group_a": "Google Search Ads",
+      "group_b": "Influencer Marketing"
+    },
+    {
+      "group_a": "Google Search Ads",
+      "group_b": "Instagram Ads"
+    },
+    {
+      "group_a": "Google Search Ads",
+      "group_b": "LinkedIn Ads"
+    },
+    {
+      "group_a": "Google Search Ads",
+      "group_b": "Snapchat Ads"
+    },
+    {
+      "group_a": "Google Search Ads",
+      "group_b": "Twitter Ads"
+    },
+    {
+      "group_a": "Google Search Ads",
+      "group_b": "YouTube Ads"
+    },
+    {
+      "group_a": "Influencer Marketing",
+      "group_b": "Instagram Ads"
+    },
+    {
+      "group_a": "Influencer Marketing",
+      "group_b": "LinkedIn Ads"
+    },
+    {
+      "group_a": "Instagram Ads",
+      "group_b": "LinkedIn Ads"
+    },
+    {
+      "group_a": "Instagram Ads",
+      "group_b": "Snapchat Ads"
+    },
+    {
+      "group_a": "Instagram Ads",
+      "group_b": "Twitter Ads"
+    },
+    {
+      "group_a": "Instagram Ads",
+      "group_b": "YouTube Ads"
+    },
+    {
+      "group_a": "LinkedIn Ads",
+      "group_b": "Snapchat Ads"
+    },
+    {
+      "group_a": "LinkedIn Ads",
+      "group_b": "Twitter Ads"
+    },
+    {
+      "group_a": "LinkedIn Ads",
+      "group_b": "YouTube Ads"
+    }
+  ]
+}

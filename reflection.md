@@ -1,0 +1,3 @@
+# Reflection
+
+The biggest surprise was that channel-level conversion rates were statistically different in many pairwise tests even though their absolute gaps were small. The FDR correction removed every CPA finding but retained 36 conversion-rate comparisons, which made it clear that correction does not automatically remove effects when the underlying counts are very large. I would explain the result to a non-technical stakeholder as: the data can detect small conversion-rate differences, but it does not prove that moving budget will cause better performance. The main limitations are that the dataset is simulated, has no dates, and does not describe randomized channel assignment or attribution quality.

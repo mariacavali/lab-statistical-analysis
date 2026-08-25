@@ -1,0 +1,11 @@
+channel,cpa,roas,cpa_rank,roas_rank,cpa_score,roas_score,composite_score,allocation_dollars,allocation_pct,rationale
+Influencer Marketing,252.55611244173213,1.3287319944165703,2.0,2.0,9.0,9.0,0.16363636363636364,75000,0.15,"Heuristic 50/50 CPA–ROAS rank; CPA rank 2, ROAS rank 2; constrained to 5%–15%."
+Snapchat Ads,256.4435486304608,1.3603220218022098,4.0,1.0,7.0,10.0,0.15454545454545454,75000,0.15,"Heuristic 50/50 CPA–ROAS rank; CPA rank 4, ROAS rank 1; constrained to 5%–15%."
+Email Marketing,247.54268380459158,1.2986824507677985,1.0,5.0,10.0,6.0,0.14545454545454545,70600,0.1412,"Heuristic 50/50 CPA–ROAS rank; CPA rank 1, ROAS rank 5; constrained to 5%–15%."
+Instagram Ads,252.6214178387232,1.3203575190245882,3.0,3.0,8.0,8.0,0.14545454545454545,70600,0.1412,"Heuristic 50/50 CPA–ROAS rank; CPA rank 3, ROAS rank 3; constrained to 5%–15%."
+Facebook Ads,258.2044915824701,1.3051389002448848,7.0,4.0,4.0,7.0,0.1,48500,0.097,"Heuristic 50/50 CPA–ROAS rank; CPA rank 7, ROAS rank 4; constrained to 5%–15%."
+Twitter Ads,257.0306271716531,1.274745315802562,5.0,8.0,6.0,3.0,0.08181818181818182,39700,0.0794,"Heuristic 50/50 CPA–ROAS rank; CPA rank 5, ROAS rank 8; constrained to 5%–15%."
+YouTube Ads,257.61943910420024,1.2894530718916353,6.0,7.0,5.0,4.0,0.08181818181818182,39700,0.0794,"Heuristic 50/50 CPA–ROAS rank; CPA rank 6, ROAS rank 7; constrained to 5%–15%."
+Affiliate Marketing,268.5327351852917,1.2951250203989846,9.0,6.0,2.0,5.0,0.06363636363636363,30900,0.0618,"Heuristic 50/50 CPA–ROAS rank; CPA rank 9, ROAS rank 6; constrained to 5%–15%."
+Google Search Ads,260.402580582547,1.2625862938595906,8.0,9.0,3.0,2.0,0.045454545454545456,25000,0.05,"Heuristic 50/50 CPA–ROAS rank; CPA rank 8, ROAS rank 9; constrained to 5%–15%."
+LinkedIn Ads,276.02383950008686,1.2615471037283925,10.0,10.0,1.0,1.0,0.01818181818181818,25000,0.05,"Heuristic 50/50 CPA–ROAS rank; CPA rank 10, ROAS rank 10; constrained to 5%–15%."
